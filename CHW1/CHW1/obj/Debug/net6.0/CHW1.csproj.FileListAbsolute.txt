@@ -1,0 +1,15 @@
+C:\Users\Yunlei\source\c#\CHW1\CHW1\bin\Debug\net6.0\CHW1.exe
+C:\Users\Yunlei\source\c#\CHW1\CHW1\bin\Debug\net6.0\CHW1.deps.json
+C:\Users\Yunlei\source\c#\CHW1\CHW1\bin\Debug\net6.0\CHW1.runtimeconfig.json
+C:\Users\Yunlei\source\c#\CHW1\CHW1\bin\Debug\net6.0\CHW1.dll
+C:\Users\Yunlei\source\c#\CHW1\CHW1\bin\Debug\net6.0\CHW1.pdb
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\CHW1.csproj.AssemblyReference.cache
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\CHW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\CHW1.AssemblyInfoInputs.cache
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\CHW1.AssemblyInfo.cs
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\CHW1.csproj.CoreCompileInputs.cache
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\CHW1.dll
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\refint\CHW1.dll
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\CHW1.pdb
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\CHW1.genruntimeconfig.cache
+C:\Users\Yunlei\source\c#\CHW1\CHW1\obj\Debug\net6.0\ref\CHW1.dll
